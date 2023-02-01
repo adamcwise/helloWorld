@@ -1,4 +1,4 @@
-/* First project, quick hw in java */
+/* First project, quick test in java */
 
 public class helloWorld
 {
